@@ -1,34 +1,43 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Painel Administrativo
 
-## Getting Started
 
-First, run the development server:
+>Esse Painel foi desenvolvido durante um curso de NextJs.
+###
 
-```bash
-npm run dev
-# or
-yarn dev
-```
+  
+  
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+![Next](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)  ![Typescript Badge](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![CSS Badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![Html Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)   ![Html Badge](https://res.cloudinary.com/practicaldev/image/fetch/s--X1_tTziN--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://img.shields.io/badge/Tailwind_CSS-38B2AC%3Fstyle%3Dfor-the-badge%26logo%3Dtailwind-css%26logoColor%3Dwhite) ![Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black) 
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+  
 
-## Learn More
+###
 
-To learn more about Next.js, take a look at the following resources:
+Nesse projeto, foi construído uma aplicação administrativa básica totalmente funcional, com integração de cadastro e login através do Firebase, dark mode e responsivo.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+###
+<img src="https://res.cloudinary.com/dkzcbs84l/image/upload/v1640890179/pictures/Login_bvyxsh.png" alt="print" />
+ <img src="https://res.cloudinary.com/dkzcbs84l/image/upload/v1640890179/pictures/Tema_escuro_z8cyst.png" alt="print" /> 
+<img src="https://res.cloudinary.com/dkzcbs84l/image/upload/v1640890179/pictures/Tema_claro_tgawhy.png" alt="print" />
 
-## Deploy on Vercel
+###
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+  
+  
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+## Link para o site
+
+-  [Site](https://template-admin-rose.vercel.app)
+
+  
+
+## Desenvolvedor
+
+- Gustavo Araújo - gustavoaraujofe@gmail.com
+
+  
+
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/gustavoaraujofe)](https://github.com/gustavoaraujofe)  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gustavoaraujofe)](https://www.linkedin.com/in/gustavoaraujofe)
